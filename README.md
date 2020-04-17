@@ -10,9 +10,11 @@ Programming Project #1
 
 ## Part II: Conventional Computational Linguistics
 
-Topics:Phrase Structure Grammars and Dependency Grammars; Natural Languages and Psycholinguistics; Parsing; First-Order Logic and Semantics
+### Topics: 
+Phrase Structure Grammars and Dependency Grammars; Natural Languages and Psycholinguistics; Parsing; First-Order Logic and Semantics
 
-Suggested reading: Chapter 12, Sections 15.1 - 15.2, Chapter 13, Chapter 14, Chapter 16  of Jurafsky and Martin
+#### Suggested reading: 
+Chapter 12, Sections 15.1 - 15.2, Chapter 13, Chapter 14, Chapter 16  of Jurafsky and Martin
 
 Programming Project #2
 
