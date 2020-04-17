@@ -1,4 +1,5 @@
 # ECE467-Natural-Language-Processing
+http://faculty.cooper.edu/sable2/courses/spring2020/ece467/
 
 ## Part I: Conventional Statistical NLP
 
