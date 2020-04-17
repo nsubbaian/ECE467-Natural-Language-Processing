@@ -1,34 +1,13 @@
 # ECE467-Natural-Language-Processing
 
 ## Part I: Conventional Statistical NLP
-Wednesday, January 22
-  * Topic 1: Course Introduction
-  *  Topic 2: Words, Morphology, and Tokenization
-  * Suggested reading: Chapter 2 of Jurafsky and Martin
-###    Tuesday, January 28
-    Topic 2 (continued)
-###    Wednesday, January 29
-    Topic 2 (continued)
-    Topic 3: N-grams and Conventional Language Models
-    Suggested reading: Chapter 3 of Jurafsky and Martin
-###    Tuesday, February 4
-    Topic 3 (continued)
-###    Wednesday, February 5
-    Topic 4: Part-of-Speech Tagging
-    Suggested reading: Chapter 8 of Jurafsky and Martin
-###    Tuesday, February 11
-    Topic 4 (continued)
-###    Tuesday, February 18
-    Topic 4 (continued)
-    Topic 5: Vector Space Models, Information Retrieval, and Text Categorization
-    Suggested reading: Chapter 4 and Sections 6.3 - 6.6 of Jurafsky and Martin
-###    Wednesday, February 19
-    Topic 5 (continued)
-###    Tuesday, February 25
-    Topic 5 (continued)
-###    Wednesday, February 26 (first half of lecture)
-    Project #1 assigned
-    Quiz #1 
+
+Topics:Course Introduction; Words, Morphology, and Tokenization; N-grams and Conventional Language Models; Part-of-Speech; Vector Space Models, Information Retrieval, and Text Categorization Tagging;
+
+Suggested reading: Chapter 2, Chapter 3, Chapter 8,Chapter 4 and Sections 6.3 - 6.6 of Jurafsky and Martin
+
+Programming Project #1 and Quiz #1 assigned
+
 
 ## Part II: Conventional Computational Linguistics
 
