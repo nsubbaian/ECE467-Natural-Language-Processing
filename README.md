@@ -1,10 +1,10 @@
 # ECE467-Natural-Language-Processing
 
 ## Part I: Conventional Statistical NLP
-###  *  Wednesday, January 22
-    * Topic 1: Course Introduction
+Wednesday, January 22
+  * Topic 1: Course Introduction
   *  Topic 2: Words, Morphology, and Tokenization
-   * Suggested reading: Chapter 2 of Jurafsky and Martin
+  * Suggested reading: Chapter 2 of Jurafsky and Martin
 ###    Tuesday, January 28
     Topic 2 (continued)
 ###    Wednesday, January 29
