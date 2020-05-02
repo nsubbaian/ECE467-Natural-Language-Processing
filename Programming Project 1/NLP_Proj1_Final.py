@@ -73,7 +73,7 @@ for c in bigdoc.keys():
 
 # alpha = float(sys.argv[2])
 
-# the best alpha values for each smoothing method
+# the best alpha values for each smoothing method in submission to professor
 if sys.argv[1] == "laplace":
     alpha = 0.053
 elif sys.argv[1] == "JM":
