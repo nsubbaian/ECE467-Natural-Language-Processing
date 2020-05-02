@@ -2,6 +2,9 @@
 # Spring 2020
 # Nithilam Subbaian
 
+## To choose which smoothing function run python NLP_Proj1_Final.py [smoothing function name]
+## options for smoothing function name include: "laplace", "JM", "Dir", "AD", "TS"
+
 import nltk
 import tqdm
 from math import log
